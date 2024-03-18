@@ -6,7 +6,7 @@ public class Percentage {
 		
 		
 		TotalGet a = new TotalGet();
-		a.Get(300,100,500);
+		a.Get(280,100,500);
 		
 
 	}
